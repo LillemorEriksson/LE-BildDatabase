@@ -15,14 +15,14 @@ namespace LE_BildDatabase.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "www.le-bild.se";
 
             return View();
         }
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "www.le-bild.se";
 
             return View();
         }
