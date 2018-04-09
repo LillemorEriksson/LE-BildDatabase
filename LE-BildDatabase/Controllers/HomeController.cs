@@ -26,5 +26,11 @@ namespace LE_BildDatabase.Controllers
 
             return View();
         }
+
+        public ActionResult Portfolio()
+        {
+            return View();
+        }
+
     }
 }

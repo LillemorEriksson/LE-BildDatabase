@@ -160,6 +160,15 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="fonts\Photo\Kulturens-Hus-LE-Bild-webb-10[1].jpg" />
+    <Content Include="fonts\Photo\Kulturens-Hus-LE-Bild-webb-11[1].jpg" />
+    <Content Include="fonts\Photo\Kulturens-Hus-LE-Bild-webb-1[1].jpg" />
+    <Content Include="fonts\Photo\Kulturens-Hus-LE-Bild-webb-2[1].jpg" />
+    <Content Include="fonts\Photo\Kulturens-Hus-LE-Bild-webb-3[1].jpg" />
+    <Content Include="fonts\Photo\Kulturens-Hus-LE-Bild-webb-4[1].jpg" />
+    <Content Include="fonts\Photo\Kulturens-Hus-LE-Bild-webb-5[1].jpg" />
+    <Content Include="fonts\Photo\Kulturens-Hus-LE-Bild-webb-6[1].jpg" />
+    <Content Include="fonts\Photo\Kulturens-Hus-LE-Bild-webb-9[1].jpg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
     <Content Include="Scripts\bootstrap.js" />

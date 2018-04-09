@@ -22,3 +22,14 @@ select,
 textarea {
     max-width: 280px;
 }
+
+.navbar-brand {
+    font-family: Kunstler Script, Times, serif;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+.galleryImg {
+    height: auto;
+    width: 100%;
+}
