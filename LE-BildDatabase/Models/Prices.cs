@@ -11,7 +11,6 @@ namespace LE_BildDatabase.Models
         public int Id { get; set; }
         public string Name { get; set; }
         public Decimal priser { get; set; }
-
-        List<Photo> Photo = new List<Photo>();
+        public List<Photo> Photos { get; set; }
     }
 }
