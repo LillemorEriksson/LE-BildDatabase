@@ -15,6 +15,7 @@ namespace LE_BildDatabase.Models
         public int Invoice { get; set; }//faktnr
 
         // public<List> Photo { get; set; }
-        List<Photo> Photo = new List<Photo>();
+        public List<Photo> Photos { get; set; }
+        //List<Photo> Photo = new List<Photo>();
     }
 }
